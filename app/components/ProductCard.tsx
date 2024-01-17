@@ -2,7 +2,7 @@ import AddToCart from './AddToCart';
 
 function ProductCard() {
   return (
-    <div>
+    <div className="">
       <AddToCart />
     </div>
   );
